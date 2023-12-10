@@ -1,16 +1,19 @@
-# track_tayo
+#Telkom University Car Tracking Application
 
-A new Flutter project.
+Hello there :wave:, I'm Ridho!
 
-## Getting Started
+Telkom University Fresh Graduate students who have an interest in learning to become a Flutter Developer
 
-This project is a starting point for a Flutter application.
+# Implementation UI Design
 
-A few resources to get you started if this is your first Flutter project:
+Telkom University Car Tracking Application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Telkom University Car Tracking Application is a sophisticated software solution designed for the real-time monitoring and tracking of Telkom University vehicles.
+In this project, collaboration has been fostered among faculty members and students hailing from the Information Technology program within the Faculty of Informatics at Telkom University. This feature has been seamlessly integrated into the MyTel-U application, enhancing its functionality and user experience. I am responsible for consuming Telkom University Car location data from the API for this application.
+
+
+
+https://github.com/ridhoaanhrp/TrackTayo/assets/55271500/fac7e69e-3083-4146-9bb0-2cbe4d7bc6ae
+
